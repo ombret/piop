@@ -1,2 +1,2 @@
 # piop
-My pi
+Collect and develop scripts for my collection of PIs
